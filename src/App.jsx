@@ -1,7 +1,7 @@
 import React from "react"
 import Hero from "./components/Hero.jsx"
 import NavBar from "./components/NavBar.jsx"
-import Card from "./components/card.jsx"
+import Card from "./components/Card.jsx"
 import data from "./components/data.jsx"
 
 
